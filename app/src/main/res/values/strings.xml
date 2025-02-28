@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="round_up_tip">Round up tip?</string>
+</resources>
